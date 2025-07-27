@@ -1,0 +1,12 @@
+th, td {
+      white-space: nowrap; /* Prevent wrapping */
+}
+
+.stat-card {
+  border-radius: 10px;
+  transition: transform 0.3s ease;
+}
+
+.stat-card:hover {
+  transform: scale(1.02);
+}

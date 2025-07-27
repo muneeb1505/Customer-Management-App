@@ -25,7 +25,7 @@ SECRET_KEY = '@(!+()ifd4^uko5q2ge8)j-j(6+8v(ycc%u+o#m6dprfzg_0q3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['clienttrack.onrender.com', '127.0.0.1', 'localhost']
 
 
 # Application definition
